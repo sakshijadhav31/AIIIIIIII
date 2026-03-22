@@ -3,6 +3,11 @@
 **ASKME AI** is a professional-grade AI-powered chat platform built with a modern full-stack architecture. It uses Google’s **Gemini Models** for real-time streaming responses and provides a persistent, secure chat environment with a premium Obsidian dark UI.
 
 ---
+<p align="center">
+  <img src="frontend/src/assets/Screenshot.png" width="100%" alt="ASKME AI Application Screenshot">
+</p>
+
+---
 
 ## 🌟 Key Features
 
