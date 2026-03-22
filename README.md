@@ -28,7 +28,7 @@
        width="50%" 
        style="max-width:500px;">
 </p>
----
+
 
 ## 🛠 Tech Stack
 
