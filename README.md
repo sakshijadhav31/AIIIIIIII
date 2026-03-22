@@ -8,7 +8,16 @@
 </p>
 
 ---
+<p align="center">
+  <img src="frontend/src/assets/SystemArchitecture.png" width="100%" alt="ASKME AI Application System Architecture">
+</p>
 
+---
+<p align="center">
+  <img src="frontend/src/assets/ERDiagram.png" width="100%" alt="ASKME AI Application ER Diagram">
+</p>
+
+---
 ## 🌟 Key Features
 
 - ⚡ **Real-time AI Streaming** – Low-latency streaming using Google GenAI SDK  
