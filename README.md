@@ -8,21 +8,6 @@
 </p>
 
 ---
-## 🏗 System Architecture
-
-<p align="center">
-  <img src="./frontend/src/assets/SystemArchitecture.png" 
-       alt="System Architecture" 
-       width="50%" 
-       style="max-width:500px;">
-</p>
-
----
-<p align="center">
-  <img src="frontend/src/assets/ERDiagram.png" width="100%" alt="ASKME AI Application ER Diagram">
-</p>
-
----
 ## 🌟 Key Features
 
 - ⚡ **Real-time AI Streaming** – Low-latency streaming using Google GenAI SDK  
@@ -34,6 +19,15 @@
 - 🔐 **Secure Authentication** – Google OAuth + JWT session handling  
 - 🧠 **Smart Title Generation** – Auto-generated chat titles using Gemma 2  
 
+---
+## 🏗 System Architecture
+
+<p align="center">
+  <img src="./frontend/src/assets/SystemArchitecture.png" 
+       alt="System Architecture" 
+       width="50%" 
+       style="max-width:500px;">
+</p>
 ---
 
 ## 🛠 Tech Stack
@@ -239,7 +233,15 @@ All endpoints are secured using **Google OAuth 2.0 authentication**.
 The backend uses **SQLAlchemy 2.0 (Async ORM)** with PostgreSQL optimizations like `UUID`, `JSONB`, `INET`, and indexing for performance.
 
 ---
+## 🗄️ ER Diagram
 
+<p align="center">
+  <img src="./frontend/src/assets/ERDiagram.png" 
+       alt="ER Diagram" 
+       width="50%" 
+       style="max-width:500px;">
+</p>
+---
 ### 👤 User Model
 
 Represents an authenticated user (via Google OAuth).
