@@ -13,8 +13,8 @@
 <p align="center">
   <img src="./frontend/src/assets/SystemArchitecture.png" 
        alt="System Architecture" 
-       width="70%" 
-       style="max-width:700px;">
+       width="50%" 
+       style="max-width:500px;">
 </p>
 
 ---
